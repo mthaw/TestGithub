@@ -18,7 +18,7 @@ public class Main extends Application {
 			primaryStage.setTitle("Les controles");
 			primaryStage.show();
 		} catch(Exception e) {
-			e.printStackTrace();
+			e.printStackTrace();       
 		}
 	}
 	
